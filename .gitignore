@@ -16,10 +16,11 @@ env/
 *.pt
 *.pkl
 *.npy
-
-bindingnew/kiba.txt
-bindingnew/processed_data/
-binding-affinity/
+binding-affinity/*.npy
+binding-affinity/*.h5
+binding-affinity/kiba.txt
+binding-affinity/__pycache__/
+bindingnew/
 models/
 
 # Logs
